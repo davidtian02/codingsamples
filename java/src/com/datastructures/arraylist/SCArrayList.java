@@ -1,4 +1,4 @@
-package com.arraylist;
+package com.datastructures.arraylist;
 
 public class SCArrayList<E> {
     /**

@@ -1,4 +1,4 @@
-package com.skiplist;
+package com.datastructures.skiplist;
 
 import java.util.ArrayList;
 import java.util.List;

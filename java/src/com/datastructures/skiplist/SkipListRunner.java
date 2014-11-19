@@ -1,4 +1,4 @@
-package com.skiplist;
+package com.datastructures.skiplist;
 
 /**
  * Created by davidtian on 11/5/14.

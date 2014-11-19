@@ -1,4 +1,4 @@
-package com.autocomplete;
+package com.puzzles.autocomplete;
 
 public class AutoCompleteRunner {
 

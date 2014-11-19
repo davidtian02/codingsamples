@@ -1,4 +1,4 @@
-package com.arraylist;
+package com.datastructures.arraylist;
 
 /**
  * Created by davidtian on 9/23/14.
